@@ -6,6 +6,11 @@ public class Git {
 		// TODO Auto-generated method stub
 		//GitBash
 		// git init
+		// git add .
+		// git status
+		// git commit -am"bericht"
+		
+		// git push
 	}
 
 }
